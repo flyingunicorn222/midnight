@@ -2,7 +2,7 @@
 
 Simply display Bid, Ask and Spread for a given market.
 
-``` quote
+``` bash
 /quote btcusd
 ```
 

@@ -33,6 +33,6 @@ a few happy users already donated and shown their love!
 
 **BTC:** [*1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx*](https://blockchain.info/address/1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx)
 
-![Thanks!](assets/1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx.png)
+![Thanks!](../assets/1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx.png)
 
 Thanks a lot and dont hesitate [Getting in touch!](Contact.md)

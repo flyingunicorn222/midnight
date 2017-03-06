@@ -6,7 +6,7 @@ There are only two parameters needed
  - symbol - The Symbol of the market you will open the order.
  - margin - The amount of Bitcoin you will invest in this position.
 
-``` html
+``` bash
 /short eurusd 0.01
 ```
 
@@ -16,7 +16,7 @@ If you don't specify those you will receive help for the `/short` command.
 
  - leverage
 
-``` html
+``` bash
 /short eurusd 0.01 50
 ```
 This will create a SHORT order with 50X leverage.
@@ -38,7 +38,7 @@ the allowed leverage or even QUARTER ( you know for how much! ).
 
 1. You can mix and match Stop and Take Profit values
 
-  ``` html
+  ``` bash
   /short eurusd 0.01 50 -10% +200
   ```
 

@@ -11,3 +11,14 @@ in any way!
 All donations are and will be strictly used to improve the free bot and the
 open source libraries unless strictly defined by donour - despite a few requests
 we won't post nudes of our old school computer keyboards.
+
+``` bash
+/donate
+```
+
+Will print the BTC donation address:
+
+
+**BTC:** [*1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx*](https://blockchain.info/address/1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx)
+
+![Thanks!](../assets/1AsB6GtqUjHrLRXBzA19RMYyD7G9aVARbx.png)

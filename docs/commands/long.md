@@ -38,9 +38,9 @@ the allowed leverage or even QUARTER ( you know for how much! ).
 
 1. You can mix and match Stop and Take Profit values
 
-  ``` bash
-  /long eurusd 0.01 50 -10% +200
-  ```
+``` bash
+/long eurusd 0.01 50 -10% +200
+```
 
 2. For your convenience this command can also be triggered by issuing the
 `/l` command
