@@ -2,25 +2,24 @@
 
 ### What is `telebroker_bot`?
 
-[Telebroker_bot](http://t.me/telebroker_bot) is a bot for [Telegram](http://t.me) that can transform messages into interface commands on [1Broker.com](https://1broker.com/?r=11468) website.
+[Telebroker_bot](http://t.me/telebroker_bot) is a bot for [Telegram](http://t.me) that can transform text messages into commands on [1Broker.com](https://1broker.com/?r=11468) website.
 
 <!--![screenshot](http://blog.evanyou.me/images/vue-component.png)-->
 
-There are many cool features provided by `telebroker_bot`:
+There are many cool features provided by `@telebroker_bot`:
 
-- Open and Close trades;
-- Create and Cancel orders;
+- Open and cancel orders
+- Close one or multiple Positions at once
 - Notification when a Position is Open
 - Notification when a Position is Closed
-- Update Stop Loss and Take Profit values;
-- Estimate of Stop Loss and Take Profit values
-- Set customisable Trailing Stops;
-- Modify or Close multiple Positions at the same time
-- Ability to work on group chats allowing traders to share ideas and trades in real time;
-- Execute any many command really fast, at the speed of a message;
-- Works on all platforms for Desktop and Mobile
+- Easily Update Stop Loss or Take Profit value
+- Estimate Loss and Profit for positions
+- Customisable Trailing Stops
+- Also work on group chats allowing traders to share trades and ideas in real time
+- Manage positions really fast, at the speed of a message! from any device!!
+- Works on all modern Desktop and Mobile platforms
 
-In a nutshell, the combination of 1Broker and `telebroker_bot` gives you a modern, flexible and extremely powerful platform to manage your trades.
+In a nutshell, the combination of [1Broker.com](https://1broker.com/?r=11468) and [@telebroker_bot](http://t.me/telebroker_bot) gives you a modern, flexible and extremely powerful platform to manage your trades.
 
 ### What is 1Broker?
 
@@ -45,3 +44,10 @@ you will effectively bank 20%, if apple share value drops by 5% then you will
 loose 10%. Sounds complicated? I bet it doesn't!
 
 
+### What is Telegram?
+
+[Telegram](http://t.me) is one of the greatest if not the greatest chat applcation
+for those who don't know it, it's like Whatsapp on (a)steroids, it can do so
+many funky things we don't even know where to start!
+
+If you still don't have [Telegram](http://t.me) you can [download it for free](http://t.me).

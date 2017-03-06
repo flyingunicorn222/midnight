@@ -1,7 +1,9 @@
-##@telebroker_bot
+##Telebroker_bot
 ---
 
-[@telebroker_bot](https://telegram.me/telebroker_bot) can trade Forex, Stocks, Indices and more! Check [his website](https://flyingunicorn222.github.io/telebroker_bot) or [/start a conversation](https://telegram.me/telebroker_bot)!
+This is the source code for the [telebroker.org](http://telebroker.org) the official
+documentaiton for [@telebroker_bot](https://t.me/telebroker_bot).
 
----
-The website template "[Midnight Theme](https://github.com/mattgraham/midnight)" was produced by [Matt Graham](https://github.com/mattgraham)
+[@Telebroker_bot](https://t.me/telebroker_bot) is a bot for [Telegram](http://t.me)
+which allows to manage your orders, positions, notifies you when a position
+is opened or closed and much more.

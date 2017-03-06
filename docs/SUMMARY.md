@@ -1,18 +1,28 @@
-- Getting Started
-  - [Creating an account](start/create_an_account.md)
-<!--- Commands-->
-  <!--- [ES2015](features/es2015.md)-->
-  <!--- [Scoped CSS](features/scoped-css.md)-->
-  <!--- [CSS Modules](features/css-modules.md)-->
-  <!--- [PostCSS](features/postcss.md)-->
-  <!--- [Hot Reload](features/hot-reload.md)-->
-<!--- Features-->
-  <!--- [Pre-Processors](configurations/pre-processors.md)-->
-  <!--- [Asset URL Handling](configurations/asset-url.md)-->
-  <!--- [Advanced Loader Configuration](configurations/advanced.md)-->
-  <!--- [Extracting CSS File](configurations/extract-css.md)-->
-  <!--- [Custom Blocks](configurations/custom-blocks.md)-->
-<!--- Contribute-->
-  <!--- [node.js library](workflow/production.md)-->
-  <!--- [donate](workflow/linting.md)-->
-  <!--- [Get in Touch](workflow/testing.md)-->
+- [Getting Started](start/create_an_account.md)
+  - [Create an Account](start/create_an_account.md#create-an-account)
+  - [Connect the bot](start/create_an_account.md#connect-the-bot)
+- [Commands](commands/index.md)
+  - [/long](commands/long.md)
+  - [/short](commands/short.md)
+  - [/stoploss](commands/stop_loss.md)
+  - [/takeprofit](commands/take_profit.md)
+  - [/positions](commands/positions.md)
+  - [/orders](commands/orders.md)
+  - [/close](commands/close.md)
+  - [/cancel](commands/cancel.md)
+  - [/default](commands/default.md)
+  - [/quote](commands/quote.md)
+  - [/balance](commands/balance.md)
+  - [/token](commands/token.md)
+  - [/donate](commands/donate.md)
+  - [/help](commands/help.md)
+- [Features](features/index.md)
+  - [Notifications](features/index.md#notifications)
+  - [Group Chat](features/index.md#group-chat)
+  - [Trollbox!](features/index.md#trollbox)
+- [Get in Touch](misc/Contact.md)
+- [FAQ](misc/FAQ.md)
+- [Glossary](misc/Glossary.md)
+- [Contribute](misc/Contribute.md)
+  - [Node.js library](misc/Contribute.md#nodejs-library)
+  - [Donate](misc/Contribute.md#donate)
