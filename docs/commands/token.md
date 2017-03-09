@@ -1,7 +1,6 @@
 # /token
 
-Used to update your API Token, for more in depth explanation on why we need
-a token and how to issue one please check the "[Connect the bot](start/create_an_account.md#connect-the-bot)"
+Used to update your API Token, for more in depth explanation refer to "[Connect the bot](start/create_an_account.md#connect-the-bot)"
 Page
 
 ``` bash
