@@ -12,7 +12,7 @@ case if someone still your laptop and get your API Token the thief wouldn't
 be able to take your money away from you.
 
 Also if something scary like that happens you can easily revoke the key on the
-[Access & API Management](https://1broker.com/trade/#access-management") page
+[Access & API Management](https://1broker.com/trade/#access-management) page
 of the website, this would avoid any more operations in your account using the
 API.
 

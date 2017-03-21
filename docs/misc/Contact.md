@@ -6,6 +6,6 @@ on this repository.
 
 There are a few ways of getting in touch in order to send a personal message
 feel free to send me throug [reddit](https://www.reddit.com/user/flyingunicorn222)
-or ask anybody at the [Trollbox](t.me/Trollbox_1Broker) or even open a thread
+or ask anybody at the [Trollbox](http://t.me/Trollbox_1Broker) or even open a thread
 on [1Broker's reddit](https://www.reddit.com/r/1Broker/)
 
