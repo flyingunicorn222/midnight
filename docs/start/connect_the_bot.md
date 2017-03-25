@@ -10,7 +10,7 @@ then launching Telegram.
 
 Unfortunately the bot still doesn't have telepathic skills hence why we will
 need to generate an API Token on [1Broker.com](https://1broker.com/?r=11468),
-you can do by going to the website and clicking on [Access & API Management](https://1broker.com/trade/#access-management),
+you can do it by going to the website and clicking on [Access & API Management](https://1broker.com/trade/#access-management),
 scrolling down and then clicking on "**Generate API Token**"
 
 Once you have you generated your token you just have to send a message to the bot:
@@ -19,7 +19,7 @@ Once you have you generated your token you just have to send a message to the bo
 /token YOUR_API_TOKEN
 ```
 
-Once you done that you will be ready to trade and manage your account any time
+Once you done you are ready to trade and manage your account any time
 through Telegram messages!
 
 

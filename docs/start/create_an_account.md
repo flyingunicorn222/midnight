@@ -5,8 +5,8 @@ In order to trade using [telebroker_bot](http://t.me/telebroker_bot) you will
 
 The registration is quite simple, free and only take a few seconds.
 
-Once your account is created you will be able to navigate the website, look
-at market information, see other traders, check your account balance and much
+Once your account is created you will be able to navigate the website, browse
+market information, see other traders, check your account balance and much
 more.
 
 As you can see the website allow you to pretty much do anything you need to

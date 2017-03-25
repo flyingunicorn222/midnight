@@ -1,11 +1,11 @@
 # /token
 
-Used to update your API Token, for more in depth explanation refer to "[Connect the bot](start/create_an_account.md#connect-the-bot)"
-Page
+Update your API Token
 
 ``` bash
-/token Dc7d8c7f23c2591084d645169a8d12b45
+/token YOUR_API_TOKEN
 ```
 
-Surely enough this token won't work! You have to swap the complicated code
-by your own API Token as explained on "[Connect the bot](start/create_an_account.md#connect-the-bot)".
+In order to generate an Api Token please refer to thee
+explanation on "[Connect the bot](start/connect_the_bot)"
+Page
